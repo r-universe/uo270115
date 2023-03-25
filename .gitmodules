@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FuzzyStatTraEOO"]
+	path = FuzzyStatTraEOO
+	url = https://github.com/cran/FuzzyStatTraEOO
+	shallow = true
+	registered = true
